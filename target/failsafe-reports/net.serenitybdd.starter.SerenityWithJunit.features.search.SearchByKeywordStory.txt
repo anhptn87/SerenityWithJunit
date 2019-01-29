@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: net.serenitybdd.starter.SerenityWithJunit.features.search.SearchByKeywordStory
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 23.865 sec - in net.serenitybdd.starter.SerenityWithJunit.features.search.SearchByKeywordStory

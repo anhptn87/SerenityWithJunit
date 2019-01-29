@@ -1,0 +1,6 @@
+net\serenitybdd\starter\SerenityWithJunit\steps\serenity\EndUserSteps.class
+net\serenitybdd\starter\SerenityWithJunit\steps\serenity\SubscriberUser.class
+net\serenitybdd\starter\SerenityWithJunit\pages\DictionaryPage.class
+net\serenitybdd\starter\SerenityWithJunit\features\subscriber\SubscriberFunction.class
+net\serenitybdd\starter\SerenityWithJunit\features\search\SearchByKeywordStory.class
+net\serenitybdd\starter\SerenityWithJunit\pages\HomePage.class
